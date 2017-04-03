@@ -1,0 +1,21 @@
+.md-button.md-icon-button.menuBtn {
+  margin-top: 6px;
+  margin-right: 0;
+}
+
+.muppet-list .md-button {
+  color: inherit;
+  text-align: left;
+  width: 100%;
+}
+.muppet-list .selected {
+  color: #03a9f4;
+}
+.face {
+  border-radius: 30px;
+  border: 1px solid #ddd;
+  display: inline-block;
+  margin: 4px 16px; 
+  vertical-align: middle;
+  width: 48px;
+}
